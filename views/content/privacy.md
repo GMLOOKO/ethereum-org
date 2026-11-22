@@ -41,7 +41,6 @@ We use information held about you in the following ways:
 You agree that we have the right to share your personal information with:
 
 + Selected third parties including:
-	- Analytics and search engine providers that assist us in the improvement and optimisation of our site;
 	- E-commerce providers such as payment solution providers to assist us in the processing of your online purchases, donations and other payments.
 
 We will disclose your personal information to third parties:
